@@ -22,163 +22,6 @@
         </assets>
     </extension>
 </addon>
-
-<addon id="plugin.program.breezz19wizard" name="[COLORred]Breezz 19 Wizard[/COLOR]" version="1.0.1" provider-name="Breezz">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">BREEZZ 19 WIZARD</summary>
-		<description lang="en_GB">breezz new kodi 19 wizard</description>
-		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
-		<language>en</language>
-		<platform>all</platform>
-		<license>GPL-2.0-or-later</license>
-		<forum></forum>
-		<website></website>
-		<email></email>
-		<source></source>
-		<news>1.1.0 - Fixed Resolveurl path in save data. 1.0.9 - Added settings to main menu. 1.0.8 - Fixed percentage during build download, 1.0.7 - Added option to link to another xml or json file. This is good for teams or community wizards as each builder can have their own xml. Also changed format of the builds xml. Please refer to builds_newformat.xml located in the resources folder. The old format will still work but if the user is running an older version of the wizard, they'll only see the version number as the name. They'll want to update to fix that. 1.0.6 - Added Notifications Dialog. Special thanks to Blue for art and helping with the design. 1.0.5 - Bugfixes. 1.0.3 - Added download progress to build install. 1.0.2 - Added option to encode the buildfile variable to a base64 string. 1.0.1 - Added the option to use json for build file. 1.0.0 - Basic clean up. Ready for official release. 0.0.9 - Added Save Menu, 0.0.8 - Bug fixes, 0.0.7 - Added Advanced Settings presets to Maintenance. 0.0.6 - Added Clear Packages, the first of the Maintenance section.
-0.0.5 - Bug fixes
-0.0.4 - Added enabling of disabled addons on build first run. Added update repos on build first run.
-0.0.3 - Added prompt notifying when new version of installed build is available.
-0.0.2 - Initial Release
-		</news>
-		<assets>
-				<icon>resources/icon.png</icon>
-				<fanart>resources/fanart.jpg</fanart>
-				<banner></banner>
-				<clearlogo></clearlogo>
-				<screenshot></screenshot>
-		</assets>
-	</extension>
-</addon>
-
-<addon id="plugin.program.ChainsMatrix" name="Chains Matrix Wizard" version="2.1.5" provider-name="Chains">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.requests" optional="true" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Chains Matrix Wizard is a lightweight template for installing builds on Kodi 19 Matrix. Has some code from Aftermath Wizard by Surfacingx. Skin Switch by OpenELEQ. Base code by BYB. Credits to them and all others who contributed. Please report any bugs to Chains on Telegram/Twitter.</summary>
-		<description lang="en_GB">Kodi 19 Wizard</description>
-		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
-		<language>en</language>
-		<platform>all</platform>
-		<license>GPL-2.0-or-later</license>
-		<forum></forum>
-		<website></website>
-		<email></email>
-		<source></source>
-		<news>2.1.1 - Added Custom Backups Path 2.1.0 - Added Backup/Restore 2.0.7 - Added Whitelist, Fixes to Dropbox urls. 2.0.5 - Added Authorize Debrid, Added language strings to most labels, code cleanup 2.0.3 - Added video preview 2.0.2 - Fixed issue with backup restore  2.0.0 Major changes to the framework of the addon. Allocated most of the code to modules. Added some new modules. Added support for Dropbox links. Fixed cancel download. 1.1.3 - Fix to save items when items not selected 1.1.2 - Remade service.py, small Bugfixes. 1.1.1 - Fixed an issue with update checker. 1.1.0 - Fixed Resolveurl path in save data. 1.0.9 - Added settings to main menu. 1.0.8 - Fixed percentage during build download, 1.0.7 - Added option to link to another xml or json file. This is good for teams or community wizards as each builder can have their own xml. Also changed format of the builds xml. Please refer to builds_newformat.xml located in the resources folder. The old format will still work but if the user is running an older version of the wizard, they'll only see the version number as the name. They'll want to update to fix that. 1.0.6 - Added Notifications Dialog. Special thanks to Blue for art and helping with the design. 1.0.5 - Bugfixes. 1.0.3 - Added download progress to build install. 1.0.2 - Added option to encode the buildfile variable to a base64 string. 1.0.1 - Added the option to use json for build file. 1.0.0 - Basic clean up. Ready for official release. 0.0.9 - Added Save Menu, 0.0.8 - Bug fixes, 0.0.7 - Added Advanced Settings presets to Maintenance. 0.0.6 - Added Clear Packages, the first of the Maintenance section.
-0.0.5 - Bug fixes
-0.0.4 - Added enabling of disabled addons on build first run. Added update repos on build first run.
-0.0.3 - Added prompt notifying when new version of installed build is available.
-0.0.2 - Initial Release
-		</news>
-		<assets>
-				<icon>icon.png</icon>
-				<fanart>fanart.jpg</fanart>
-				<banner></banner>
-				<clearlogo></clearlogo>
-				<screenshot></screenshot>
-		</assets>
-	</extension>
-</addon>
-
-<addon id="plugin.program.ComicThemes" name="[COLORghostwhite]Chains Theme Wizard[/COLOR]" version="1.1.1" provider-name="CHAINS">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>executable</provides>
-	</extension>
-	<extension point="xbmc.service" library="service.py" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">The Chains Theme Wizard is  for installing Themes Only on Kodi 19 Matrix.</summary>
-		<description lang="en_GB">Kodi 19 Wizard</description>
-		<disclaimer lang="en_GB">This Addon contains no content</disclaimer>
-		<language>en</language>
-		<platform>all</platform>
-		<license>GPL-2.0-or-later</license>
-		<forum></forum>
-		<website></website>
-		<email></email>
-		<source></source>
-		<news>1.0.6 - Added Notifications Dialog. Special thanks to Blue for art and helping with the design. 1.0.5 - Bugfixes. 1.0.3 - Added download progress to build install. 1.0.2 - Added option to encode the buildfile variable to a base64 string. 1.0.1 - Added the option to use json for build file. 1.0.0 - Basic clean up. Ready for official release. 0.0.9 - Added Save Menu, 0.0.8 - Bug fixes, 0.0.7 - Added Advanced Settings presets to Maintenance. 0.0.6 - Added Clear Packages, the first of the Maintenance section.
-0.0.5 - Bug fixes
-0.0.4 - Added enabling of disabled addons on build first run. Added update repos on build first run.
-0.0.3 - Added prompt notifying when new version of installed build is available.
-0.0.2 - Initial Release
-		</news>
-		<assets>
-				<icon>icon.png</icon>
-				<fanart>fanart.jpg</fanart>
-				<banner></banner>
-				<clearlogo></clearlogo>
-				<screenshot></screenshot>
-		</assets>
-	</extension>
-</addon>
-
-<addon id="plugin.program.theboys" name="[COLOR red]THE BOYS WIZARD[/COLOR]" version="1.0.2" provider-name="FTG, Slam, Funsterbe, The Boys">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0"/>
-    <import addon="script.module.six" />
-    <import addon="script.module.kodi-six" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Matrix GUI Wizard</summary>
-    <description lang="en">In this wizard you will find the latest Matrix GUI Wizard and Tools. Thanks whufclee at NaN, GUYS at TI, Brackets for the app installer!! RomanVM for the PyXBMCt libs. Fire TV Guru for the PyXBMCt layout  Also a very special Thanks to Surfacingx for the base code used in this add-on.</description>
-    <platform>all</platform>
-    <assets>
-				<icon>icon.png</icon>
-				<fanart>fanart.jpg</fanart>
-				<banner></banner>
-				<clearlogo></clearlogo>
-				<screenshot></screenshot>
-		</assets>
-  </extension>
-</addon>
-
-<addon id="plugin.program.thecrewiz" name="[COLOR orchid]THE CREW WIZARD[/COLOR]" version="1.1.9" provider-name="The Crew">
-  <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="startup.py" start="startup" />
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
-        <description lang="en">Many come, Many go. The true and dedicated are here.</description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-            <screenshot>resources/art/ss/1.png</screenshot>
-            <screenshot>resources/art/ss/2.png</screenshot>
-            <screenshot>resources/art/ss/3.png</screenshot>
-        </assets>
-    </extension>
-</addon>
-
 <addon id="plugin.video.base19"
 	   name="[COLORred]BASE 19[/COLOR]"
 	   version="1.0.1"
@@ -200,62 +43,7 @@
             <fanart>fanart.jpg</fanart>
     </assets>
   </extension>
-
 </addon>
-
-<addon id="plugin.video.gallifrey" name="[COLORcyan]Gallifrey[/COLOR]" version="1.4" provider-name="John Smith">
-  <requires>
-    <import addon="xbmc.python" version="3.0.0" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.routing"/>
-    <import addon="script.module.unidecode" />
-    <import addon="script.module.inputstreamhelper" />
-    <import addon="script.module.resolveurl"/>
-    <!--<import addon="name" />-->
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_GB">Doctor Who Complete Collection All One Click</summary>
-    <platform>all</platform>
-    <language>en</language>
-    <license>Tardis</license>
-	<assets>
-		<icon>icon.png</icon>
-		<fanart>fanart.jpg</fanart>
-  </assets>
-  </extension>
-</addon>
-
-<addon id="plugin.video.Genocide"
-	   name="[COLORdarkred]Genocide[/COLOR]"
-	   version="1.3.2"
-	   provider-name="[COLORdarkred]Genocide[/COLOR]">
-  <requires>
-	<import addon="script.module.resolveurl"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension library="resources/modules/" point="xbmc.python.module" />
-  <extension library="resources/sources/" point="xbmc.python.module" />
-  <extension library="resources/" point="xbmc.python.module" />
-  <extension point="xbmc.addon.metadata">
-	<reuselanguageinvoker>true</reuselanguageinvoker>
-    <summary lang="en">[COLORdarkred]Genocide[/COLOR] Is Scraper Based</summary>
-    <description lang="en">[COLORdarkred]Genocide[/COLOR]</description>
-
-    <platform>all</platform>
-	<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-
-</addon>
-
 <addon id="plugin.video.ghost"
 	   name="Ghost"
 	   version="1.3.3"
@@ -278,9 +66,7 @@
 			<screenshot>screenshot.jpg</screenshot>
     </assets>
   </extension>
-
 </addon>
-
 <addon id="plugin.video.ghosttv" name="[COLOR red]Ghost TV[/COLOR]" version="1.1" provider-name="Ghost">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
@@ -301,81 +87,6 @@
 		</assets>
 	</extension>
 </addon>
-
-<addon id="plugin.video.homelander" name="[COLOR red]Homelander[/COLOR]" provider-name="Homelander" version="1.0.4">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.20.0" />-->
-        <!--<import addon="script.homelander.metadata" />-->
-        <import addon="script.homelander.artwork" />
-        <import addon="script.module.resolveurl" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.homelanderscrapers" />
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-        <import addon="script.module.simplejson" />
-		<import addon="plugin.video.youtube" optional="true" />
-    </requires>
-    <extension library="homelander.py" point="xbmc.python.pluginsource">
-        <provides>video</provides>
-    </extension>
-    <extension library="service.py" point="xbmc.service" start="startup" />
-    <extension point="xbmc.addon.metadata">
-        <reuselanguageinvoker>false</reuselanguageinvoker>
-        <summary lang="en_GB">Homelander</summary>
-        <description lang="en_GB">[COLOR red]The Crew Team[/COLOR]</description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <forum />
-        <website />
-        <source />
-        <disclaimer lang="en_GB">The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk!</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-        <news>
-        See Changelog on Tools menu
-        </news>
-    </extension>
-</addon>
-
-<addon id="plugin.video.moria" name="[COLORff58c1e0][B]MORIA[/B][/COLOR]" provider-name="CC" version="4.11.09">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.20.0" />-->
-        <!--<import addon="script.moria.metadata" />-->
-        <import addon="script.moria.artwork" />
-        <import addon="script.module.resolveurl" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.moriascrapers" />
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-        <import addon="script.module.simplejson" />
-        <import addon="plugin.video.youtube" optional="true" />
-    </requires>
-    <extension library="moria.py" point="xbmc.python.pluginsource">
-        <provides>video</provides>
-    </extension>
-    <extension library="service.py" point="xbmc.service" start="startup" />
-    <extension point="xbmc.addon.metadata">
-        <reuselanguageinvoker>false</reuselanguageinvoker>
-        <summary lang="en_GB">Moria</summary>
-        <description lang="en_GB">Multi-source add-on</description>
-        <platform>all</platform>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-        <forum />
-        <website />
-        <source />
-        <disclaimer lang="en_GB">The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk![CR]This project uses the TMDb, Trakt, Fanart.tv APIs, but is not affiliated nor endorsed by any of their respective ogranisations.[CR]Please support these ogranisations however you can.</disclaimer>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-        <news>
-- See Changelog on Tools menu
-        </news>
-    </extension>
-</addon>
-
 <addon id="plugin.video.purelywrestling" name="Purely Wrestling" version="1.0.2" provider-name="The Crew">
 	<requires>
 		<import addon="script.module.pyxbmct" />
@@ -403,57 +114,6 @@
 		<website></website>
 	</extension>
 </addon>
-
-<addon id="plugin.video.sstv" name="[B][COLOR blue]SSTV[/COLOR][/B]" version="3.0.14" provider-name="SG">
-  <requires>
-        <import addon="script.module.six" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.kodi-six" />
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">SSTV Addon</summary>
-    <language>en</language>
-    <description lang="en">Come visit our site: https://sstvhd.uk/ and Follow us on Twitter: @SSTVUK</description>
-     <platform>all</platform>
-  <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-     </assets>
-  </extension>
-</addon>
-
-<addon id="plugin.video.thechains"
-	   name="Chains Reaction Lite"
-	   version="2.0.9"
-	   provider-name="Chains">
-  <requires>
-	<import addon="script.module.resolveurl"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension library="resources/modules/" point="xbmc.python.module" />
-  <extension library="resources/sources/" point="xbmc.python.module" />
-  <extension library="resources/" point="xbmc.python.module" />
-  <extension point="xbmc.addon.metadata">
-	<reuselanguageinvoker>true</reuselanguageinvoker>
-    <summary lang="en">Chain Reaction Lite</summary>
-    <description lang="en">Faster Than A Speeding Bullet</description>
-
-    <platform>all</platform>
-	<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-
-</addon>
-
 <addon id="plugin.video.thecrew" version="1.1.6b" name="[COLOR orchid]THE CREW[/COLOR]" provider-name="The Crew">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
@@ -489,7 +149,6 @@
         </assets>
     </extension>
 </addon>
-
 <addon id="plugin.video.tvone" name="tvOne" version="26+matrix.1" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -517,7 +176,6 @@
     <assets/>
   </extension>
 </addon>
-
 <addon id="plugin.video.tvone11" name="tvOne11" version="27+matrix.1" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -538,7 +196,6 @@
     <license>GPL-3.0</license>
   </extension>
 </addon>
-
 <addon id="plugin.video.tvone111" name="tvOne111" version="24+matrix.1" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -561,7 +218,6 @@
     <license>GPL-3.0-only</license>
   </extension>
 </addon>
-
 <addon id="plugin.video.tvone1112" name="tvOne1112" version="111+matrix.1" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -591,7 +247,6 @@
     <assets/>
   </extension>
 </addon>
-
 <addon id="plugin.video.tvone112" name="tvOne112" version="1+matrix.1" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -614,7 +269,6 @@
     <license>GPL-3.0-only</license>
   </extension>
 </addon>
-
 <addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.8.1" provider-name="WNT2">
     <requires>
         <import addon="script.module.requests"/>
@@ -692,118 +346,6 @@ Random updates by lolage.
 		</assets>
 	</extension>
 </addon>
-
-<addon id="repository.thecrew" name="[COLOR orchid]THE CREW REPO[/COLOR]" provider-name="The Crew" version="0.3.4">
-	<extension point="xbmc.addon.repository" name="The Crew" >
-			<dir minversion="16.0.0" maxversion="18.9.9">
-			<info compressed="false">https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/thecrewwh/zips/master/_zip/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/thecrewwh/zips/master/_zip</datadir>
-			</dir>
-			<dir minversion="18.9.9">
-			<info compressed="false">https://raw.githubusercontent.com/thecrewwh/zips/master/matrix/_zip/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/thecrewwh/zips/master//matrix/_zip/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/thecrewwh/zips/master//matrix/_zip</datadir>
-			</dir>
-			<dir>
-			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-			</dir>
-			<dir>
-			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
-			</dir>
-			<dir>
-			<info compressed="false">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/dobbelina/repository.dobbelina/master/</datadir>
-			</dir>
-			<dir>
-			<info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
-			</dir>
-			<dir>
-			<info compressed="false">https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/therealatreides/housetools/master/code/_housefiles/</datadir>
-			</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
-		<description lang="en">Many come, Many go. The true and dedicated are here. We here</description>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot>resources/art/ss/1.png</screenshot>
-			<screenshot>resources/art/ss/2.png</screenshot>
-			<screenshot>resources/art/ss/3.png</screenshot>
-		</assets>
-	</extension>
-</addon>
-
-<addon id="resource.uisounds.crew" version="1.0.1" name="[COLOR orchid]THE CREW SOUNDS[/COLOR]" provider-name="The Crew">
-  <requires>
-    <import addon="kodi.resource" version="1.0.0"/>
-  </requires>
-  <extension point="kodi.resource.uisounds"/>
-  <extension point="kodi.addon.metadata">
-    <summary lang="en">The Crew Sounds</summary>
-    <description lang="en">The Crew Sounds</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="script.homelander.artwork" version="1.0.2" name="[COLOR red]Homelander [/COLOR]Artwork" provider-name="Homelander">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.19.0"/>-->
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.addon.metadata">
-        <summary>Homelander Artwork</summary>
-        <description>Homelander Artwork</description>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="script.module.homelanderscrapers" name="[COLOR red]Homelander [/COLOR]Scrapers" version="1.0.9" provider-name="Homelander">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.20.0" />-->
-        <import addon="script.module.beautifulsoup4" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-        <import addon="script.module.simplejson" />
-        <import addon="script.module.orion" optional="true" />
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.python.pluginsource" library="lib/default.py">
-        <provides>executable</provides>
-    </extension>
-        <extension point="xbmc.addon.metadata">
-            <platform>all</platform>
-            <summary lang="en">Homelander Scrapers Module</summary>
-            <description>Scrape common video host for URL's to be playable in Kodi, simplifying addon development of video plugins requiring multi video hosts.</description>
-                <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-    <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </assets>
-    <news></news>
-    </extension>
-</addon>
-
 <addon id="script.module.kodi-six"
        name="Kodi Six"
        version="0.1.3.1"
@@ -826,7 +368,6 @@ Random updates by lolage.
 - Fix non-UTF-8 byte string decoding in Python 2.</news>
   </extension>
 </addon>
-
 <addon id="script.module.moriascrapers" name="MoriaScrapers Module" version="1.03.04" provider-name="Moria">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
@@ -855,7 +396,6 @@ Random updates by lolage.
     <news></news>
     </extension>
 </addon>
-
 <addon id="script.module.resolveurl.xxx" version="2.0.1" name="Adult Resolver SMR Extension" provider-name="gujal">
 	<requires>
 		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
@@ -868,7 +408,6 @@ Random updates by lolage.
 		<platform>all</platform>
 	</extension>
 </addon>
-
 <addon id="script.module.thecrew" name="[COLOR orchid]THE CREW MODULE[/COLOR]" version="1.1.6r" provider-name="The Crew">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
@@ -887,7 +426,6 @@ Random updates by lolage.
         </assets>
     </extension>
 </addon>
-
 <addon id="script.moria.artwork" version="1.1.0" name="Moria Artwork" provider-name="host505">
 	<requires>
 		<!--<import addon="xbmc.python" version="2.19.0"/>-->
@@ -899,7 +437,6 @@ Random updates by lolage.
 		<platform>all</platform>
 	</extension>
 </addon>
-
 <addon id="script.thecrew.artwork" version="1.0.0" name="[COLOR orchid]THE CREW ARTWORK[/COLOR]" provider-name="The Crew">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
@@ -917,7 +454,6 @@ Random updates by lolage.
         </assets>
     </extension>
 </addon>
-
 <addon id="script.thecrew.metadata" version="1.0.0" name="[COLOR orchid]THE CREW METADATA[/COLOR]" provider-name="The Crew">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
