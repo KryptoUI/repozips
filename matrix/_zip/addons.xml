@@ -1,119 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.audio.mp3streams" name="MP3 Streams" version="2022.0.2" provider-name="Jon Bovi">
-    <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.future"/>
-        <import addon="script.module.mutagen"/>
-        <import addon="script.module.requests"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>audio</provides>
-    </extension>
-    <extension point="xbmc.service" library="playerMP3.py" start="startup" />
-    <extension point="xbmc.addon.metadata">
-        <platform>all</platform>
-        <summary>A music streaming Collection.</summary>
-        <description>MP3 Streams Kodi 19+</description>
-        <news>2022.0.2 - Fix errors loading pages. 2022.0.1 - Small fix, Kodi 20 ready. 2021.0.6 - Fixed issue with hanging  when skipping tracks. 2021.0.4 - Fixed Settings, 2021.0.3 - Bugfixes. Enjoy!</news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
-<addon id="plugin.video.base19"
-	   name="[COLORred]BASE 19[/COLOR]"
-	   version="1.0.1"
-	   provider-name="BReeZz">
-  <requires>
-	<import addon="script.module.resolveurl"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">All Thanks To Original Dev</summary>
-    <description lang="en">Real Debrid Required</description>
-
-    <platform>all</platform>
-	<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
-<addon id="plugin.video.ghost"
-	   name="Ghost"
-	   version="1.3.3"
-	   provider-name="Ghost">
-  <requires>
-	<import addon="script.module.resolveurl"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Ghost Addon</summary>
-    <description lang="en">All in one addon</description>
-
-    <platform>all</platform>
-	<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-			<screenshot>screenshot.jpg</screenshot>
-    </assets>
-  </extension>
-</addon>
-<addon id="plugin.video.ghosttv" name="[COLOR red]Ghost TV[/COLOR]" version="1.1" provider-name="Ghost">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0" />
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-
-	<extension point="xbmc.addon.metadata">
-		<summary>Ghost 247 Tv</summary>
-		<description>Extension For Ghost</description>
-		<platform>all</platform>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-		</assets>
-	</extension>
-</addon>
-<addon id="plugin.video.purelywrestling" name="Purely Wrestling" version="1.0.2" provider-name="The Crew">
-	<requires>
-		<import addon="script.module.pyxbmct" />
-		<import addon="script.module.resolveurl" />
-		<import addon="script.module.six" />
-		<import addon="script.module.kodi-six" />
-		<import addon="script.module.requests" />
-		<import addon="script.module.simplejson" />
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="purely.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-	<summary lang="en">Purely Wrestling</summary>
-	<description lang="en">Purely Wrestling</description>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot></screenshot>
-			<screenshot></screenshot>
-			<screenshot></screenshot>
-		</assets>
-		<platform>all</platform>
-		<forum></forum>
-		<website></website>
-	</extension>
-</addon>
 <addon id="plugin.video.thecrew" version="1.1.6b" name="[COLOR orchid]THE CREW[/COLOR]" provider-name="The Crew">
     <requires>
         <!--<import addon="xbmc.python" version="2.25.0" />-->
@@ -269,83 +155,6 @@
     <license>GPL-3.0-only</license>
   </extension>
 </addon>
-<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.8.1" provider-name="WNT2">
-    <requires>
-        <import addon="script.module.requests"/>
-        <import addon="script.module.six"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">WatchNixtoons2</summary>
-        <description lang="en">
-Watch cartoons and anime from [COLOR orange][B]www.wcofun.net[/B][/COLOR].
-
-Support the WatchCartoonOnline website with a PayPal donation to:
-[COLOR khaki][B]wcohelp@yandex.com[/B][/COLOR]
-
-Add-on originally by doko.
-Random updates by lolage.
-        </description>
-        <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
-		<language>en</language>
-        <platform lang="en">all</platform>
-        <news>[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
-[B]0.8.1:[/B]
-- Fix Source decode site changes
-
-[B]0.8.0:[/B]
-- Update Thumbnail Hashes
-- Menus and Settings can now be translated
-- Fix PY3 issues for the old WNT2 scripts in settings
-- Changed default setting for the series thumbnails
-- Ongoing and Popular can now have thumbnails
-  - Requires to be enabled in settings</news>
-		<assets>
-            <icon>icon.png</icon>
-        </assets>
-    </extension>
-</addon>
-
-<addon id="repository.chainsrepo" name="Chains Repository" provider-name="Chains" version="0.0.10">
-	<extension point="xbmc.addon.repository" name="Chains Repo" >
-		<dir>
-			<info compressed="false">http://thechains24.com/_zips/addons.xml</info>
-			<checksum>http://thechains24.com/_zips/addons.xml.md5</checksum>
-			<datadir zip="true">http://thechains24.com/_zips/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
-		</dir>
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/jenaddon/repository.jenrepo/master/zips/</datadir>
-		</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Welcome to the Chains Repository</summary>
-		<description lang="en"></description>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot></screenshot>
-			<screenshot></screenshot>
-			<screenshot></screenshot>
-		</assets>
-	</extension>
-</addon>
 <addon id="script.module.kodi-six"
        name="Kodi Six"
        version="0.1.3.1"
@@ -367,34 +176,6 @@ Random updates by lolage.
     <news>0.1.3:
 - Fix non-UTF-8 byte string decoding in Python 2.</news>
   </extension>
-</addon>
-<addon id="script.module.moriascrapers" name="MoriaScrapers Module" version="1.03.04" provider-name="Moria">
-    <requires>
-        <!--<import addon="xbmc.python" version="2.20.0" />-->
-        <import addon="script.module.beautifulsoup4" />
-        <import addon="script.module.requests" />
-        <import addon="script.module.six" />
-        <import addon="script.module.kodi-six" />
-        <import addon="script.module.simplejson" />
-        <import addon="script.module.orion" optional="true" />
-    </requires>
-    <extension point="xbmc.python.module" library="lib" />
-    <extension point="xbmc.python.pluginsource" library="lib/default.py">
-        <provides>executable</provides>
-    </extension>
-        <extension point="xbmc.addon.metadata">
-            <platform>all</platform>
-            <summary lang="en">MoriaScrapers Module</summary>
-            <description>Scrape common video host for URL's to be playable in Kodi, simplifying addon development of video plugins requiring multi video hosts.</description>
-                <disclaimer lang="en">The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon.[CR]The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation.[CR]This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.</disclaimer>
-    <platform>all</platform>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-    <assets>
-        <icon>icon.png</icon>
-        <fanart></fanart>
-    </assets>
-    <news></news>
-    </extension>
 </addon>
 <addon id="script.module.resolveurl.xxx" version="2.0.1" name="Adult Resolver SMR Extension" provider-name="gujal">
 	<requires>
@@ -425,17 +206,6 @@ Random updates by lolage.
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon>
-<addon id="script.moria.artwork" version="1.1.0" name="Moria Artwork" provider-name="host505">
-	<requires>
-		<!--<import addon="xbmc.python" version="2.19.0"/>-->
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary>Themes for the Moria Addon</summary>
-		<description></description>
-		<platform>all</platform>
-	</extension>
 </addon>
 <addon id="script.thecrew.artwork" version="1.0.0" name="[COLOR orchid]THE CREW ARTWORK[/COLOR]" provider-name="The Crew">
     <requires>
