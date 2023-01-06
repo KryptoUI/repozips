@@ -115,7 +115,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.tvone" name="tvOne" version="26+matrix.1" provider-name="RACC">
+	<addon id="plugin.video.tvone" name="TvOne" version="26.1" provider-name="RACC">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.pycryptodome"/>
@@ -132,17 +132,15 @@
 			<summary lang="en_gb">tvOne</summary>
 			<description lang="en_gb">tvOne</description>
 			<disclaimer lang="en_gb"/>
-			<language/>
 			<platform>all</platform>
 			<license>GPL-3.0</license>
-			<forum/>
-			<website/>
-			<email/>
-			<source/>
-			<assets/>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.tvone11" name="tvOne11" version="27+matrix.1" provider-name="RACC">
+	<addon id="plugin.video.tvone11" name="TvOne Alternative" version="27.1" provider-name="RACC">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.requests"/>
@@ -160,9 +158,13 @@
 			<disclaimer lang="en_gb"/>
 			<platform>all</platform>
 			<license>GPL-3.0</license>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.tvone111" name="tvOne111" version="24+matrix.1" provider-name="RACC">
+	<addon id="plugin.video.tvone111" name="TvOne - Alternative Misc" version="24.1" provider-name="RACC">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.pycryptodome"/>
@@ -182,9 +184,13 @@
 			<disclaimer lang="en_gb"/>
 			<platform>all</platform>
 			<license>GPL-3.0-only</license>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.tvone1112" name="tvOne1112" version="111+matrix.1" provider-name="RACC">
+	<addon id="plugin.video.tvone1112" name="TvOne - TV Alternative" version="112.1" provider-name="RACC">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.pycryptodome"/>
@@ -210,10 +216,13 @@
 			<website/>
 			<email/>
 			<source/>
-			<assets/>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.tvone112" name="tvOne112" version="2+matrix.1" provider-name="RACC">
+	<addon id="plugin.video.tvone112" name="TvOne - MiscTV" version="2.1" provider-name="RACC">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.pycryptodome"/>
@@ -233,6 +242,9 @@
 			<disclaimer lang="en_gb"/>
 			<platform>all</platform>
 			<license>GPL-3.0-only</license>
+			<assets>
+				<icon>icon.png</icon>
+			</assets>
 		</extension>
 	</addon>
 	<addon id="repository.thecrew" name="[COLOR orchid]THE CREW REPO[/COLOR]" provider-name="The Crew" version="0.3.4">
