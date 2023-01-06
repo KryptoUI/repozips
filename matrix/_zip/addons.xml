@@ -5,7 +5,34 @@
 	////////////////Addons///////////////////
 	////////////////Krypto///////////////////
 	/////////////////////////////////////////
-<addon id="plugin.video.megaiptv" name="[COLOR aqua]Mega IPTV[/COLOR]" version="1.0.1" provider-name="G-Man">
+	<addon id="" name="TV ADDONS TEST" version="1.0.0" provider-name="Krypto">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="addon.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en"></summary>
+			<description lang="en"></description>
+			<platform>all</platform>
+			<language>en</language>
+			<license></license>
+			<forum/>
+			<website/>
+			<email/>
+			<source/>
+			<news/>
+			<assets>
+				<icon></icon>
+				<fanart></fanart>
+				<banner/>
+				<clearlogo/>
+				<screenshot/>
+			</assets>
+		</extension>
+	    </addon>
+        <addon id="plugin.video.megaiptv" name="[COLOR aqua]Mega IPTV[/COLOR]" version="1.0.1" provider-name="G-Man">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.requests"/>
@@ -255,26 +282,6 @@
 	////////////////Scripts//////////////////
 	/////////////////////////////////////////
 	/////////////////////////////////////////
-	<addon id="slyguy.stirr.provider" name="STIRR" provider-name="SlyGuy" version="0.2.2">
-		<requires>
-			<import addon="script.module.slyguy"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="default.py" provides="video">
-			<provides>video</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<description lang="en">Watch all your favourite STIRR channels live anywhere. No subscription required.</description>
-			<reuselanguageinvoker>true</reuselanguageinvoker>
-			<license/>
-			<language/>
-			<website/>
-			<news>Move EPG into Playlist</news>
-			<assets>
-				<icon>icon.png</icon>
-				<fanart>fanart.jpg</fanart>
-			</assets>
-		</extension>
-	</addon>
 	<addon id="slyguy.dependencies" name="SlyGuy Dependencies" provider-name="SlyGuy" version="0.0.7">
 		<extension point="xbmc.python.module" library="resources/modules"/>
 		<extension point="xbmc.addon.metadata">
