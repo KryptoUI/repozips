@@ -255,7 +255,7 @@
 	////////////////Scripts//////////////////
 	/////////////////////////////////////////
 	/////////////////////////////////////////
-	<addon id="script.module.urllib3" name="urllib3" version="1.26.13.1" provider-name="urllib3">
+	<addon id="script.module.urllib3" name="urllib3" version="1.26.13+matrix.1" provider-name="urllib3">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
@@ -272,7 +272,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.module.requests" name="requests" version="2.27.1.1" provider-name="Python Software Foundation">
+	<addon id="script.module.requests" name="requests" version="2.27.1+matrix.1" provider-name="Python Software Foundation">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.certifi" version="2022.5.18+matrix.1"/>
@@ -310,7 +310,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.module.chardet" name="chardet" version="4.0.0.1" provider-name="Character Encoding Detector">
+	<addon id="script.module.chardet" name="chardet" version="4.0.0+matrix.1" provider-name="Character Encoding Detector">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
