@@ -5,26 +5,54 @@
 	////////////////Addons///////////////////
 	////////////////Krypto///////////////////
 	/////////////////////////////////////////
-	<addon id="plugin.video.thecrew" version="1.1.6" name="[COLOR orchid]THE CREW[/COLOR]" provider-name="The Crew">
+    <addon id="plugin.video.megaiptv" name="[COLOR aqua]Mega IPTV[/COLOR]" version="1.0.1" provider-name="G-Man">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+			<import addon="script.module.requests"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="addon.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Live IPTV World-Wide</summary>
+			<description lang="en">An IPTV Channel Add-on with listings from IPTV.org and Fluxus IPTV </description>
+			<platform>all</platform>
+			<language>en</language>
+			<license>GPL-2.0-or-later</license>
+			<forum/>
+			<website/>
+			<email/>
+			<source/>
+			<news/>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+				<banner/>
+				<clearlogo/>
+				<screenshot/>
+			</assets>
+		</extension>
+	</addon>
+	<addon id="plugin.video.thecrew" version="1.1.6b" name="[COLOR orchid]THE CREW[/COLOR]" provider-name="The Crew">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
-			<import addon="script.module.thecrew" />
-			<import addon="script.thecrew.artwork" />
-			<import addon="script.thecrew.metadata" />
-			<import addon="script.module.requests" />
-			<import addon="script.module.resolveurl" />
-			<import addon="script.module.simplejson" />
-			<import addon="script.module.requests" />
-			<import addon="script.module.beautifulsoup4" />
-			<import addon="script.module.six" />
-			<import addon="script.module.kodi-six" />
-			<import addon="plugin.video.youtube" optional="true" />
+			<import addon="script.module.thecrew"/>
+			<import addon="script.thecrew.artwork"/>
+			<import addon="script.thecrew.metadata"/>
+			<import addon="script.module.requests"/>
+			<import addon="script.module.resolveurl"/>
+			<import addon="script.module.simplejson"/>
+			<import addon="script.module.requests"/>
+			<import addon="script.module.beautifulsoup4"/>
+			<import addon="script.module.six"/>
+			<import addon="script.module.kodi-six"/>
+			<import addon="plugin.video.youtube" optional="true"/>
 			<import addon="script.module.inputstreamhelper" version="0.3.3"/>
 		</requires>
 		<extension library="thecrew.py" point="xbmc.python.pluginsource">
 			<provides>video</provides>
 		</extension>
-		<extension library="service.py" point="xbmc.service" start="startup" />
+		<extension library="service.py" point="xbmc.service" start="startup"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
 			<description lang="en">Many come, Many go. The true and dedicated are here.</description>
@@ -40,54 +68,56 @@
 			</assets>
 		</extension>
 	</addon>
-    <addon id="plugin.video.tvone" name="tvOne" version="26+matrix.1" provider-name="RACC">
-      <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.pycryptodome"/>
-        <import addon="script.module.requests"/>
-        <import addon="script.module.kodi-six"/>
-        <import addon="script.module.future"/>
-        <import addon="script.module.routing"/>
-      </requires>
-      <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-      </extension>
-      <extension point="xbmc.addon.metadata">
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-        <summary lang="en_gb">tvOne</summary>
-        <description lang="en_gb">tvOne</description>
-        <disclaimer lang="en_gb"/>
-        <language/>
-        <platform>all</platform>
-        <license>GPL-3.0</license>
-        <forum/>
-        <website/>
-        <email/>
-        <source/>
-        <assets/>
-      </extension>
-    </addon>
-    <addon id="plugin.video.tvone11" name="tvOne11" version="27+matrix.1" provider-name="RACC">
-      <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-        <import addon="script.module.requests"/>
-        <import addon="script.module.kodi-six"/>
-        <import addon="script.module.future"/>
-        <import addon="script.module.routing"/>
-      </requires>
-      <extension point="xbmc.python.pluginsource" library="addon.py">
-        <provides>video</provides>
-      </extension>
-      <extension point="xbmc.addon.metadata">
-        <reuselanguageinvoker>true</reuselanguageinvoker>
-        <summary lang="en_gb">tvOne11</summary>
-        <description lang="en_gb">tvOne11</description>
-        <disclaimer lang="en_gb"/>
-        <platform>all</platform>
-        <license>GPL-3.0</license>
-      </extension>
-    </addon>
-	<addon id="plugin.video.tvone111" name="tvOne111" version="24+matrix.1" provider-name="RACC">
+	<addon id="plugin.video.tvone" name="tvOne" version="26.0" provider-name="RACC">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+			<import addon="script.module.pycryptodome"/>
+			<import addon="script.module.requests"/>
+			<import addon="script.module.kodi-six"/>
+			<import addon="script.module.future"/>
+			<import addon="script.module.routing"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="addon.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<reuselanguageinvoker>true</reuselanguageinvoker>
+			<summary lang="en_gb">tvOne</summary>
+			<description lang="en_gb">tvOne</description>
+			<disclaimer lang="en_gb"/>
+			<platform>all</platform>
+			<license>GPL-3.0</license>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
+		</extension>
+	</addon>
+	<addon id="plugin.video.tvone11" name="tvOne - Country's" version="27.0" provider-name="RACC">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+			<import addon="script.module.requests"/>
+			<import addon="script.module.kodi-six"/>
+			<import addon="script.module.future"/>
+			<import addon="script.module.routing"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="addon.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<reuselanguageinvoker>true</reuselanguageinvoker>
+			<summary lang="en_gb">tvOne11</summary>
+			<description lang="en_gb">tvOne11</description>
+			<disclaimer lang="en_gb"/>
+			<platform>all</platform>
+			<license>GPL-3.0</license>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
+		</extension>
+	</addon>
+	<addon id="plugin.video.tvone111" name="tvOne111" version="24.0" provider-name="RACC">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.pycryptodome"/>
@@ -107,9 +137,13 @@
 			<disclaimer lang="en_gb"/>
 			<platform>all</platform>
 			<license>GPL-3.0-only</license>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.tvone1112" name="tvOne1112" version="111+matrix.1" provider-name="RACC">
+	<addon id="plugin.video.tvone1112" name="tvOne1112" version="11.1.1" provider-name="RACC">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.pycryptodome"/>
@@ -135,10 +169,13 @@
 			<website/>
 			<email/>
 			<source/>
-			<assets/>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.tvone112" name="tvOne112" version="1+matrix.1" provider-name="RACC">
+	<addon id="plugin.video.tvone112" name="tvOne112" version="2.1" provider-name="RACC">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 			<import addon="script.module.pycryptodome"/>
@@ -158,6 +195,9 @@
 			<disclaimer lang="en_gb"/>
 			<platform>all</platform>
 			<license>GPL-3.0-only</license>
+			<assets>
+				<icon>icon.png</icon>
+			</assets>
 		</extension>
 	</addon>
 	/////////////////////////////////////////
@@ -169,7 +209,7 @@
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">Python package for providing Mozilla's CA Bundle.</summary>
 			<description lang="en_GB">Certifi is a carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts. It has been extracted from the Requests project.</description>
@@ -217,14 +257,11 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.module.kodi-six"
-       name="Kodi Six"
-       version="0.1.3.1"
-       provider-name="Roman V.M.">
+	<addon id="script.module.kodi-six" name="Kodi Six" version="0.1.3.1" provider-name="Roman V.M.">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
-		<extension point="xbmc.python.module" library="libs" />
+		<extension point="xbmc.python.module" library="libs"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">Wrappers around Kodi Python API for seamless Python 2/3 compatibility</summary>
 			<description lang="en_GB">Wrappers around Kodi Python API that normalize handling of textual and byte strings in Python 2 and 3.</description>
@@ -241,18 +278,14 @@
 			</news>
 		</extension>
 	</addon>
-	<addon id="script.module.simplejson"
-       name="simplejson"
-       version="3.17.0"
-       provider-name="Bob Ippolito">
+	<addon id="script.module.simplejson" name="simplejson" version="3.17.0" provider-name="Bob Ippolito">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
-		<extension point="xbmc.python.module"
-				   library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<platform>all</platform>
-			<language></language>
+			<language/>
 			<summary lang="en_GB">Simple, fast, extensible JSON encoder/decoder for Python</summary>
 			<description lang="en_GB">Simple, fast, extensible JSON encoder/decoder for Python</description>
 			<disclaimer lang="en_GB">Code taken from https://pypi.org/project/simplejson/</disclaimer>
@@ -268,7 +301,7 @@
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">A CSS selector library</summary>
 			<description lang="en_GB">Soup Sieve is a CSS selector library designed to be used with Beautiful Soup 4. It aims to provide selecting, matching, and filtering using modern CSS selectors.</description>
@@ -285,7 +318,7 @@
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
 			<description lang="en">Many come, Many go. The true and dedicated are here.</description>
@@ -302,7 +335,7 @@
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
 			<description lang="en">Many come, Many go. The true and dedicated are here.</description>
@@ -320,7 +353,7 @@
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 			<import addon="script.module.beautifulsoup4"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
 			<description lang="en">Many come, Many go. The true and dedicated are here.</description>
@@ -333,15 +366,11 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.module.six"
-       name="six"
-       version="1.15.0"
-       provider-name="gutworth">
+	<addon id="script.module.six" name="six" version="1.15.0" provider-name="gutworth">
 		<requires>
-			<import addon="xbmc.python"
-					version="3.0.0"/>
+			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">Python 2 and 3 compatibility utilities.</summary>
 			<description lang="en_GB">Six is a Python 2 and 3 compatibility library. It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions. See the documentation for more information on what is provided.</description>
@@ -357,14 +386,14 @@
 	<addon id="script.module.resolveurl" name="ResolveURL" version="5.1.87" provider-name="gujal">
 		<requires>
 			<!-- <import addon="xbmc.python" version="3.0.0" /> -->
-			<import addon="script.module.six" />
-			<import addon="script.module.kodi-six" />
-			<import addon="plugin.video.youtube" optional="true" />
-			<import addon="script.module.python.twitch" optional="true" />
-			<import addon="plugin.googledrive" optional="true" />
+			<import addon="script.module.six"/>
+			<import addon="script.module.kodi-six"/>
+			<import addon="plugin.video.youtube" optional="true"/>
+			<import addon="script.module.python.twitch" optional="true"/>
+			<import addon="plugin.googledrive" optional="true"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
-		<extension point="xbmc.python.pluginsource" library="lib/default.py" />
+		<extension point="xbmc.python.module" library="lib"/>
+		<extension point="xbmc.python.pluginsource" library="lib/default.py"/>
 		<extension point="xbmc.addon.metadata">
 			<platform>all</platform>
 			<summary lang="en_GB">Resolve common video host URL's to be playable in XBMC/Kodi.</summary>
@@ -390,7 +419,7 @@
 			<import addon="script.module.idna" version="3.3.0+matrix.1"/>
 			<import addon="script.module.urllib3" version="1.26.9+matrix.1"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">Requests is an elegant and simple HTTP library for Python, built for human beings.</summary>
 			<description lang="en_GB">Requests is an elegant and simple HTTP library for Python, built for human beings.</description>
@@ -407,7 +436,7 @@
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">Internationalized Domain Names for Python</summary>
 			<description lang="en_GB">Internationalized Domain Names for Python</description>
@@ -424,7 +453,7 @@
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">The Universal Character Encoding Detector</summary>
 			<description lang="en_GB">The Universal Character Encoding Detector</description>
@@ -438,63 +467,60 @@
 		</extension>
 	</addon>
 	<addon id="script.module.beautifulsoup4" name="BeautifulSoup4" version="4.9.3" provider-name="Leonard Richardson (leonardr@segfault.org)">
-	<requires>
-		<import addon="xbmc.python" version="3.0.0"/>
-		<import addon="script.module.soupsieve" version="2.0.0+matrix.1"/>
-	</requires>
-	<extension point="xbmc.python.module" library="lib" />
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Screen-scraping library</summary>
-		<description lang="en_GB">Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.</description>
-		<license>MIT</license>
-		<platform>all</platform>
-		<website>https://www.crummy.com/software/BeautifulSoup/</website>
-		<source>https://code.launchpad.net/beautifulsoup</source>
-		<assets>
-			<icon>icon.png</icon>
-		</assets>
-	</extension>
-</addon>
-    <addon id="script.module.kodi-six"
-           name="Kodi Six"
-           version="0.1.3.1"
-           provider-name="Roman V.M.">
-      <requires>
-        <import addon="xbmc.python" version="3.0.0"/>
-      </requires>
-      <extension point="xbmc.python.module" library="libs" />
-      <extension point="xbmc.addon.metadata">
-        <summary lang="en_GB">Wrappers around Kodi Python API for seamless Python 2/3 compatibility</summary>
-        <description lang="en_GB">Wrappers around Kodi Python API that normalize handling of textual and byte strings in Python 2 and 3.</description>
-        <platform>all</platform>
-        <license>GPL v.3</license>
-        <forum>https://forum.kodi.tv/showthread.php?tid=327883</forum>
-        <source>https://github.com/romanvm/kodi.six</source>
-        <assets>
-          <icon>icon.png</icon>
-        </assets>
-        <news>0.1.3:
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+			<import addon="script.module.soupsieve" version="2.0.0+matrix.1"/>
+		</requires>
+		<extension point="xbmc.python.module" library="lib"/>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en_GB">Screen-scraping library</summary>
+			<description lang="en_GB">Beautiful Soup is a library that makes it easy to scrape information from web pages. It sits atop an HTML or XML parser, providing Pythonic idioms for iterating, searching, and modifying the parse tree.</description>
+			<license>MIT</license>
+			<platform>all</platform>
+			<website>https://www.crummy.com/software/BeautifulSoup/</website>
+			<source>https://code.launchpad.net/beautifulsoup</source>
+			<assets>
+				<icon>icon.png</icon>
+			</assets>
+		</extension>
+	</addon>
+	<addon id="script.module.kodi-six" name="Kodi Six" version="0.1.3.1" provider-name="Roman V.M.">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+		</requires>
+		<extension point="xbmc.python.module" library="libs"/>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en_GB">Wrappers around Kodi Python API for seamless Python 2/3 compatibility</summary>
+			<description lang="en_GB">Wrappers around Kodi Python API that normalize handling of textual and byte strings in Python 2 and 3.</description>
+			<platform>all</platform>
+			<license>GPL v.3</license>
+			<forum>https://forum.kodi.tv/showthread.php?tid=327883</forum>
+			<source>https://github.com/romanvm/kodi.six</source>
+			<assets>
+				<icon>icon.png</icon>
+			</assets>
+			<news>0.1.3:
     - Fix non-UTF-8 byte string decoding in Python 2.</news>
-      </extension>
-    </addon>
-    <addon id="script.module.resolveurl.xxx" version="2.0.1" name="Adult Resolver SMR Extension" provider-name="gujal">
-    	<requires>
-    		<!-- <import addon="xbmc.python" version="2.1.0"/> -->
-            <import addon="script.module.resolveurl" version="5.1.0" />
-    	</requires>
-    	<extension point="xbmc.python.module" library="lib" />
-    	<extension point="xbmc.addon.metadata">
-    		<summary lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</summary>
-    		<description lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</description>
-    		<platform>all</platform>
-    	</extension>
-    </addon>
+		</extension>
+	</addon>
+	<addon id="script.module.resolveurl.xxx" version="2.0.1" name="Adult Resolver SMR Extension" provider-name="gujal">
+		<requires>
+			<!-- <import addon="xbmc.python" version="2.1.0"/> -->
+			<import addon="script.module.resolveurl" version="5.1.0"/>
+		</requires>
+		<extension point="xbmc.python.module" library="lib"/>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</summary>
+			<description lang="en">Resolve adult video host URL's to be playable in XBMC/Kodi.</description>
+			<platform>all</platform>
+		</extension>
+	</addon>
 	<addon id="script.module.thecrew" name="[COLOR orchid]THE CREW MODULE[/COLOR]" version="1.1.6" provider-name="The Crew">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 			<import addon="script.module.beautifulsoup4"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
 			<description lang="en">Many come, Many go. The true and dedicated are here.</description>
@@ -511,7 +537,7 @@
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en_GB">urllib3 is a powerful, user-friendly HTTP client for Python</summary>
 			<description lang="en_GB">urllib3 is a powerful, user-friendly HTTP client for Python. Much of the Python ecosystem already uses urllib3 and you should too. urllib3 brings many critical features that are missing from the Python standard libraries</description>
@@ -528,7 +554,7 @@
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
 			<description lang="en">Many come, Many go. The true and dedicated are here.</description>
@@ -545,7 +571,7 @@
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 		</requires>
-		<extension point="xbmc.python.module" library="lib" />
+		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
 			<description lang="en">Many come, Many go. The true and dedicated are here.</description>
