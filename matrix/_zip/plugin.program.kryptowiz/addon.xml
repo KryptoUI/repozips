@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.kryptowiz" name="[COLOR red]K[/COLOR][COLOR white]rypto[/COLOR][COLOR red]W[/COLOR][COLOR white]izard[/COLOR]" version="1.0.2" provider-name="Krypto">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+    <import addon="script.module.six" />
+    <import addon="script.module.kodi-six" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Matrix GUI Wizard</summary>
+    <description lang="en">A Collection Of Krypto's Builds - NOTE: We Do Not Own Any Content, We Do Not Host Any Content And All Content Is Readily Available Online.</description>
+    <platform>all</platform>
+    <assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+				<banner></banner>
+				<clearlogo></clearlogo>
+				<screenshot></screenshot>
+		</assets>
+  </extension>
+</addon>
