@@ -1,37 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-    /////////////////////////////////////////
+        /////////////////////////////////////////
 	/////////////////////////////////////////
 	////////////////Addons///////////////////
 	////////////////Krypto///////////////////
 	/////////////////////////////////////////
-	<addon id="" name="TV ADDONS TEST" version="1.0.0" provider-name="Krypto">
-		<requires>
-			<import addon="xbmc.python" version="3.0.0"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="addon.py">
-			<provides>video</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary lang="en"></summary>
-			<description lang="en"></description>
-			<platform>all</platform>
-			<language>en</language>
-			<license></license>
-			<forum/>
-			<website/>
-			<email/>
-			<source/>
-			<news/>
-			<assets>
-				<icon></icon>
-				<fanart></fanart>
-				<banner/>
-				<clearlogo/>
-				<screenshot/>
-			</assets>
-		</extension>
-	    </addon>
+        <addon id="testid" name="tempname" version="testversion" provider-name="tempprovider">
+            <requires>
+                <import addon="xbmc.python" version="2.1.0"/>
+            </requires>
+            <extension point="xbmc.python.pluginsource" library="default.py">
+                <provides>testprovides</provides>
+            </extension>
+            <extension point="xbmc.addon.metadata">
+                <description>If you're seeing this message it means the add-on is still updating, please wait for the update process to complete.</description>
+            </extension>
+        </addon>
         <addon id="plugin.video.megaiptv" name="[COLOR aqua]Mega IPTV[/COLOR]" version="1.0.1" provider-name="G-Man">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
