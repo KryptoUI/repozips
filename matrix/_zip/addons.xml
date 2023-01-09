@@ -323,7 +323,7 @@
 	////////////////Scripts//////////////////
 	/////////////////////////////////////////
 	/////////////////////////////////////////
-	<addon id="script.module.midnightart" name="[COLORblue]Midnight Art[/COLOR]" provider-name="Krypto" version="1.1.7a">
+<addon id="script.module.midnightart" name="[COLORblue]Midnight Art[/COLOR]" provider-name="Krypto" version="1.1.7a">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 		</requires>
