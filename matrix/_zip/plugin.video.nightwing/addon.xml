@@ -2,6 +2,7 @@
 <addon id="plugin.video.nightwing" name="[COLORblue]Nightwing[/COLOR]" provider-name="Magnetic" version="1.1.7a">
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
+		<import addon="script.module.midnightart" />
         <import addon="script.module.resolveurl" />
         <import addon="script.module.requests" />
         <import addon="script.module.beautifulsoup4" />
