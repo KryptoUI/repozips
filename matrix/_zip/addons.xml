@@ -326,8 +326,8 @@
 <addon id="script.module.midnightart" name="[COLORblue]Midnight Art[/COLOR]" provider-name="Krypto" version="1.1.7a">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
+			<import addon="script.module.beautifulsoup4" version="4.9.3+matrix.1"/>
 		</requires>
-		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en">The Crew is a team of individuals that does what it can to provide others, you the best in entertainment.</summary>
 			<description lang="en">Many come, Many go. The true and dedicated are here.</description>

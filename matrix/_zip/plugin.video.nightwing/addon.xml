@@ -3,6 +3,7 @@
     <requires>
         <!--<import addon="xbmc.python" version="2.20.0" />-->
 		<import addon="script.module.midnightart" />
+		<import addon="script.module.nightwingscrapers" />
         <import addon="script.module.resolveurl" />
         <import addon="script.module.requests" />
         <import addon="script.module.beautifulsoup4" />
