@@ -16,6 +16,40 @@
 			<description>If you're seeing this message it means the add-on is still updating, please wait for the update process to complete.</description>
 		</extension>
 	</addon>
+	<addon id="plugin.video.nightwing" name="[COLORblue]Nightwing[/COLOR]" provider-name="Magnetic" version="1.1.7a">
+		<requires>
+			<!--<import addon="xbmc.python" version="2.20.0" />-->
+			<import addon="script.module.resolveurl"/>
+			<import addon="script.module.requests"/>
+			<import addon="script.module.beautifulsoup4"/>
+			<import addon="script.module.nightwingscrapers"/>
+			<import addon="script.module.six"/>
+			<import addon="script.module.simplejson"/>
+			<import addon="script.module.metahandler" optional="true"/>
+			<import addon="plugin.video.youtube" optional="true"/>
+		</requires>
+		<extension library="nightwing.py" point="xbmc.python.pluginsource">
+			<provides>video</provides>
+		</extension>
+		<extension library="service.py" point="xbmc.service" start="startup"/>
+		<extension point="xbmc.addon.metadata">
+			<reuselanguageinvoker>false</reuselanguageinvoker>
+			<summary lang="en_GB">Nightwing</summary>
+			<description lang="en_GB"/>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+			<forum/>
+			<website/>
+			<source/>
+			<disclaimer lang="en_GB">A small but packed with goodies! A huge shoutout to the Way Of Kodi Learning Team, for their teaching. The author of this add-on does not host any of the content which is found and has no affiliation with any of the content providers. This add-on simply searches websites for content. Use at your own risk!</disclaimer>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
+			<news>
+        </news>
+		</extension>
+	</addon>
 	<addon id="plugin.program.kryptowiz" name="[COLOR red]K[/COLOR][COLOR white]rypto[/COLOR][COLOR red]W[/COLOR][COLOR white]izard[/COLOR]" version="1.0.2" provider-name="Krypto">
 		<requires>
 			<import addon="xbmc.python" version="3.0.0"/>
