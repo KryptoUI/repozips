@@ -1,5 +1,5 @@
 # Krypto's Kodi repository
-Release 1.0.4
+Release 1.0.5
 
 This repository is created for distributing my own Kodi plugins. Enjoy!
 
@@ -13,5 +13,5 @@ This repository is created for distributing my own Kodi plugins. Enjoy!
 ## Zip Archives
 <pre>
 <img src="../../icons/folder.gif" alt="[DIR]" > <a href="../">../</a> 
-<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="repository.krypto-1.0.4.zip">repository.krypto-1.0.4.zip</a> 
+<img src="../../icons/compressed.gif" alt="[ZIP]" > <a href="repository.krypto-1.0.5.zip">repository.krypto-1.0.5.zip</a> 
 </pre>

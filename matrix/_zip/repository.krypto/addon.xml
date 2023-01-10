@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.krypto" version="1.0.4" name="[COLOR orchid]Krypto's Repo[/COLOR]" provider-name="Krypto">
+<addon id="repository.krypto" version="1.0.5" name="[COLOR orchid]Krypto's Repo[/COLOR]" provider-name="Krypto">
     <extension point="xbmc.addon.repository" name="[COLOR orchid]Krypto's Repo[/COLOR]">		
 		<dir minversion="18.9.9">
 			<info compressed="false">https://raw.githubusercontent.com/kryptoui/repozips/master/matrix/_zip/addons.xml</info>
