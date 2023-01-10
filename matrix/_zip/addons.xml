@@ -3,7 +3,7 @@
 	<addon id="plugin.video.midnight" name="[COLORred]M[/COLOR][COLORwhite]idnight[/COLOR]    [COLORyellow]**Coming Soon**[/COLOR] " provider-name="Krypto" version="1.0.0">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.20.0" />-->
-			<!--<import addon="script.module.midnightartwork"/>-->
+			<import addon="script.module.midnightartwork"/>
 			<import addon="script.module.midnightscrapers"/>
 			<import addon="script.module.resolveurl"/>
 			<import addon="script.module.requests"/>
