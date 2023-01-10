@@ -251,7 +251,6 @@
 			</assets>
 		</extension>
 	</addon>
-	<?xml version="1.0" encoding="UTF-8"?>
 	<addon id="repository.krypto" version="1.0.5" name="[COLOR orchid]Krypto's Repo[/COLOR]" provider-name="Krypto">
 		<extension point="xbmc.addon.repository" name="[COLOR orchid]Krypto's Repo[/COLOR]">
 			<dir minversion="18.9.9">
@@ -292,6 +291,21 @@
 			<description lang="en_GB">This repository is created for distributing my own Kodi plugins. Enjoy!</description>
 			<disclaimer lang="en_GB">This repository is non-commercial GPL-3. You may use it as is at your own discretion and risk.
         </disclaimer>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+			</assets>
+		</extension>
+	</addon>
+	<addon id="slyguy.dependencies" name="SlyGuy Dependencies" provider-name="SlyGuy" version="0.0.7">
+		<extension point="xbmc.python.module" library="resources/modules"/>
+		<extension point="xbmc.addon.metadata">
+			<description lang="en">Dependencies required by all Slyguy add-ons</description>
+			<reuselanguageinvoker>true</reuselanguageinvoker>
+			<license/>
+			<language/>
+			<website/>
+			<news>Add dnspython 1.16.0</news>
 			<assets>
 				<icon>icon.png</icon>
 				<fanart>fanart.jpg</fanart>
