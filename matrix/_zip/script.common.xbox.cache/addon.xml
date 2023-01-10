@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<addon id="script.common.xbox.cache" name="Krypto Cache - Xbox Version" provider-name="Krypto" version="2.7.0">
+  <requires>
+    <!--<import addon="xbmc.python" version="2.7.0" />-->
+  </requires>
+  <extension library="default.py" point="xbmc.service" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Common Caching API For Xbox Related Plugins.</summary>
+  </extension>
+  <extension library="lib" point="xbmc.python.module" />
+</addon>
