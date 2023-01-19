@@ -59,10 +59,10 @@ https://live.smartmediahouse.tv:8443/hls/ch1.m3u8?checkedby:iptvcat.net
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/65074?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 70s
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now.70s.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 80s
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now80.uk.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Now 80s
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4738?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 80s
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now80.uk.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 90s
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now90.uk.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",PBS America
