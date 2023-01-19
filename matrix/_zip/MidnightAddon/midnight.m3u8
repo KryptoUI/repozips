@@ -1,201 +1,463 @@
 #EXTM3U
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV BASE
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.base.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Classic
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.classic.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV HITS
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.hits.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",MTV Live
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.live.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Music",MTV Music UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/mtv.music.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",MUTV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1102?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Magic
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/magic.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Magic TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280282?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",More 4
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280284?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",More 4
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/more4.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Movie Sphere [Pluto]
-https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NASA TV [HD]
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",NAT GEO
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1101?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",NAT GEO Wild
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/724?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",NATGEO WILD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51451?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SEic3ewRHNV6I6MJySD0V28/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NHK Worldᴴᴰ
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NICKELODEON
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHJ2OEocNcPEDUL_U2QQvTI/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nat Geo Wild UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.wild.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",National Geographic UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nat.geo.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nick
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SABar9z8RCGy6owPp0Y-Kaw/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nick Jr
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nick Jr.Too UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.too.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Nick Junior
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1098?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nick Toons UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nicktoons.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Nickelodeon UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UA;GB" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="Undefined;Sports",Nitro Circus,Redbox : Nitro Circus
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/hSL6WK5.png" group-title="Religious",Noor TV (480p) [Not 24/7]
-https://live.smartmediahouse.tv:8443/hls/ch1.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Now 70s
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/65074?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 70s
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now.70s.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Now 80s
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4738?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 80s
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now80.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Now 90s
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/now90.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",PBS America
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296601?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",PICK TV
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCMu68FLwJa5RyjIdBp3mx4/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP Max 1
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SN_0CSK4rPRogADiZA_AZ4U/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP Max UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pop.max.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",POP UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pop.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",PREMIER SPORTS 2
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SHEh8C5gs7WlKldLPYm0jSMT4L_VLiRAFaPMV9AdxUNk/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Paramount
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SP4Zdzx2O2TXGfdLML0sKSY/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Paramount Network
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4637?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Paramount Network UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/paramount.network.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Pick
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1578?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Pick
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/pick.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Pop
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1599?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Pop +1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165932?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Pop Max
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1598?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Sport",Premier Sports 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1097?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",QUEST
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/quest.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/m1xhwRa.png" group-title="Shop",QVC
-https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",QVC Beauty
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/48644?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",QVC UK +1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/294543?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Quest
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1096?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Quest Red
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1577?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Quest Red
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/quest.red.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",RACING TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/731?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",RT News
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/48883?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",RTE 2
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rte.2.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",RTE Jr
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rte.jr.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="News",RTE News
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rte.news.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",RTE One
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rte.1.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",RTE Two
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51470?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Racing UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/racing.tv.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Rangers SPFL
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rangers.sport.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Really
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/really.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Really
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/742?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",RedBull TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/85429?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UA;GB" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Undefined",Redbox : Unsolved Mysteries,Unsolved Mysteries
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UA;GB" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Entertainment;Undefined",Redbox : World Poker Tour,World Poker Tour
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UA;GB" tvg-logo="https://i.imgur.com/Fi3klzX.png" group-title="Undefined",pocket.watch,pocket.watch (1080p),pocketwatch,Redbox : pocketwatch
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Revelation
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157285?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",S4C
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4775?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",S4C
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/s4c.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ATLANTIC
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SD7mlw8U7wp7P41dIXynqRw/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY COMEDY
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SIGZEcybzdE63RDSnpE3GqI/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY DRAMA
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJzom3ecqu9Kz-lXQw4dhOE/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY FAMILY
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SAp2dAFrGEU6CFqDjniJtf8/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY GREATS
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFWhwlPvHvSOLIyP8U0s8CM/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY HITS
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SM5kbzbedGjMZzzz5KLFCqA/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY ONE
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SBG9jCdvbiEYHKaHXT5kWVY/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY PREMIERE
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SJiLrY0nTVeSiR-jgztA2FY/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY SCIFI
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SNhcoxwuPkAUqozO764STVQ/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY THRILLER
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SGRKJQus1zCZfixYhycVmTw/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SKY WITNESS
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SMSge_3WIxBFnmP6_Q-hYYs/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY CHANNEL
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SFHDdCPUHuqFg8Pd6kmpgUY/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",STV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192776?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",STV
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/stv.central.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",SYFY
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1068?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SYFY HD
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SCdUeDl9r5b_f8V0kA8GkVE/ts?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SYFY UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Safeer TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/267720?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Sewing Street
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/296397?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/eUqnYU1.png" group-title="Undefined",Sheffield TV
-http://tv.sheffieldlive.org/hls/main.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Shelanu TV (720p)
-https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Sky Arts
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1094?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Arts UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.arts.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Sky Atlantic
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1093?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Atlantic UK
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.atlantic.uk.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",Sky Cinema Action
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1092?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sky Cinema Action
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sky.cinema.action.uk.m3u8?checkedby:iptvcat.net
+#EXTINF:0,SPORT ITALIA HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/24
+#EXTINF:0,SPORT ITALIA LIVE 24
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/23
+#EXTINF:0,SPORT ITALIA SOLO CALCIO
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/22
+#EXTINF:0,SPORT ITALIA SOLO MOTORI
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/21
+#EXTINF:0,RAI SPORT   FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/240
+#EXTINF:0,RAI SPORT   HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/239
+#EXTINF:0,TOP CALCIO 24
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/15
+#EXTINF:0,SUPER TENNIS FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/20
+#EXTINF:0,SUPER TENNIS HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/19
+#EXTINF:0,MOTOR TREND
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/293
+#EXTINF:0,AUTOMOTO TV
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/367
+#EXTINF:0,FNSPORT
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/326
+#EXTINF:0,SKY SPORT 24 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/62
+#EXTINF:0,SKY SPORT 24 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/61
+#EXTINF:0,SKY SPORT NBA FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/43
+#EXTINF:0,SKY SPORT NBA HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/42
+#EXTINF:0,SKY SPORT UNO FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/37
+#EXTINF:0,SKY SPORT UNO HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/36
+#EXTINF:0,SKY SPORT FOOTBALL FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/52
+#EXTINF:0,SKY SPORT FOOTBALL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/51
+#EXTINF:0,SKY SPORT ARENA FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/59
+#EXTINF:0,SKY SPORT ARENA HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/58
+#EXTINF:0,SKY SPORT GOLF FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/49
+#EXTINF:0,SKY SPORT GOLF HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/48
+#EXTINF:0,SKY SPORT F1 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/55
+#EXTINF:0,SKY SPORT F1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/54
+#EXTINF:0,SKY SPORT MOTOGP FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/46
+#EXTINF:0,SKY SPORT MOTOGP HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/45
+#EXTINF:0,SKY EUROSPORT 1 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/130
+#EXTINF:0,SKY EUROSPORT 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/129
+#EXTINF:0,SKY EUROSPORT 2 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/128
+#EXTINF:0,SKY EUROSPORT 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/127
+#EXTINF:0,SKY HORSE TV FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/109
+#EXTINF:0,SKY BIKE CHANNEL FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/217
+#EXTINF:0,SKY BIKE CHANNEL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/216
+#EXTINF:0,CLASS HORSE TV
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/351
+#EXTINF:0,SKY SPORT SERIE A FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/40
+#EXTINF:0,SKY SPORT SERIE A HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/39
+#EXTINF:0,SKY CALCIO 1 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/210
+#EXTINF:0,SKY CALCIO 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/209
+#EXTINF:0,SKY CALCIO 2 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/207
+#EXTINF:0,SKY CALCIO 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/206
+#EXTINF:0,SKY CALCIO 3 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/204
+#EXTINF:0,SKY CALCIO 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/203
+#EXTINF:0,SKY CALCIO 4 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/201
+#EXTINF:0,SKY CALCIO 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/200
+#EXTINF:0,SKY CALCIO 5 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/198
+#EXTINF:0,SKY CALCIO 5 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/197
+#EXTINF:0,SKY CALCIO 6 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/196
+#EXTINF:0,SKY CALCIO 6 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/195
+#EXTINF:0,SKY CALCIO 7 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/194
+#EXTINF:0,SKY CALCIO 7 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/193
+#EXTINF:0,SKY ROMA FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/63
+#EXTINF:0,SKY MILAN FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/100
+#EXTINF:0,SKY INTER FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/108
+#EXTINF:0,SKY TORINO FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/30
+#EXTINF:0,SKY LAZIO FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/105
+#EXTINF:0,SKY DAZN BAR FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/152
+#EXTINF:0,SKY DAZN BAR HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/151
+#EXTINF:0,SKY DAZN BAR 2 FULL HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/154
+#EXTINF:0,SKY DAZN BAR 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/153
+#EXTINF:0,DAZN WEB 1
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/348
+#EXTINF:0,DAZN WEB 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/346
+#EXTINF:0,DAZN WEB 3
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/345
+#EXTINF:0,DAZN WEB 4
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/344
+#EXTINF:0,DAZN WEB 5
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/343
+#EXTINF:0,DAZN WEB 6
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/342
+#EXTINF:0,DAZN WEB 7
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/341
+#EXTINF:0,DAZN WEB 8
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/340
+#EXTINF:0,DAZN WEB 9
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/339
+#EXTINF:0,DAZN WEB 10
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/347
+#EXTINF:0,SKY DAZN BAR SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/150
+#EXTINF:0,SKY CALCIO 1 SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/208
+#EXTINF:0,SKY CALCIO 2 SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/205
+#EXTINF:0,SKY CALCIO 3 SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/202
+#EXTINF:0,SKY CALCIO 4 SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/199
+#EXTINF:0,SKY SPORT 24 SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/60
+#EXTINF:0,SKY SPORT ARENA SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/57
+#EXTINF:0,SKY SPORT F1 SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/53
+#EXTINF:0,SKY SPORT FOOTBALL SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/50
+#EXTINF:0,SKY SPORT GOLF SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/47
+#EXTINF:0,SKY SPORT MOTOGP SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/44
+#EXTINF:0,SKY SPORT NBA SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/41
+#EXTINF:0,SKY SPORT SERIE A SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/38
+#EXTINF:0,SKY SPORT UNO SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/35
+#EXTINF:0,[VIP-PT] Eleven Sports 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4778
+#EXTINF:0,[VIP-PT] Eleven Sports 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4779
+#EXTINF:0,[VIP-PT] Eleven Sports 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4780
+#EXTINF:0,[VIP-PT] Eleven Sports 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4781
+#EXTINF:0,[VIP-PT] Eleven Sports 5 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4782
+#EXTINF:0,[VIP-PT] Eleven Sports 6 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4783
+#EXTINF:0,EX-YU : SPORT KLUB 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1590
+#EXTINF:0,EX-YU : SPORT KLUB 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1591
+#EXTINF:0,EX-YU : SPORT KLUB 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1592
+#EXTINF:0,EX:YU: ARENA SPORT 6 HR
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1570
+#EXTINF:0,FIN: C More Sport 1
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2714
+#EXTINF:0,FIN: C More Sport 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2715
+#EXTINF:0,IL: YES SPORT 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3059
+#EXTINF:0,IL: Yes Sport 1 SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3062
+#EXTINF:0,IL: YES SPORT 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3060
+#EXTINF:0,IL: Yes Sport 5 live HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3061
+#EXTINF:0,IL: Yes Sport 5 Live SD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3063
+#EXTINF:0,[AL] Super Sport News HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1062
+#EXTINF:0,[AL] Super Sport 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1063
+#EXTINF:0,[AL] Super Sport 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1064
+#EXTINF:0,[AL] Super Sport 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1065
+#EXTINF:0,[AL] Super Sport 5 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1066
+#EXTINF:0,[AL] Super Sport 6
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1067
+#EXTINF:0,[AL] Tring Sport News HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1068
+#EXTINF:0,[AL] Tring Sport 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1069
+#EXTINF:0,[AL] Tring Sport 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1070
+#EXTINF:0,[AL] Tring Sport 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1071
+#EXTINF:0,[AL] Tring Sport 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1072
+#EXTINF:0,[AL] K Sport 1
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1073
+#EXTINF:0,[AL] K Sport 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1074
+#EXTINF:0,[AL] K Sport 3
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1075
+#EXTINF:0,[AL] K Sport 4
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1076
+#EXTINF:0,[AL] K Sport 5
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1077
+#EXTINF:0,[AL] RTSH SPORT HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1078
+#EXTINF:0,[AL] Extreme Sports
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1645
+#EXTINF:0,[AL] Fight BOX HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1646
+#EXTINF:0,[AR] beIN SPORTS NEWS HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1442
+#EXTINF:0,[AR] beIN SPORTS 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1443
+#EXTINF:0,[AR] beIN SPORTS 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1444
+#EXTINF:0,[AR] beIN SPORTS 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1445
+#EXTINF:0,[AR] beIN SPORTS 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1446
+#EXTINF:0,[AR] beIN SPORTS 5 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1447
+#EXTINF:0,[AR] beIN SPORTS 6 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1448
+#EXTINF:0,[AR] beIN SPORTS 7 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1449
+#EXTINF:0,[AR] beIN SPORTS 8 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1450
+#EXTINF:0,[AR] beIN SPORTS 9 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1451
+#EXTINF:0,[AR] beIN SPORTS 10 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1452
+#EXTINF:0,[AR] beIN SPORTS 11 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1453
+#EXTINF:0,[AR] beIN SPORTS 12 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1454
+#EXTINF:0,[AR] beIN SPORTS 13 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1455
+#EXTINF:0,[AR] beIN SPORTS 14 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1456
+#EXTINF:0,[AR] beIN SPORTS 15 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1457
+#EXTINF:0,[AR] beIN SPORTS 16 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1458
+#EXTINF:0,[AR] beIN SPORTS NBA HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1459
+#EXTINF:0,[AR] AD Sports 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1461
+#EXTINF:0,[AR] AD Sports 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1462
+#EXTINF:0,[AR] AD Sports 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1463
+#EXTINF:0,[AR] AD Sports 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1464
+#EXTINF:0,[AR] OSN SPORTS 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1640
+#EXTINF:0,[AR] OSN SPORTS 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1641
+#EXTINF:0,[AR] OSN SPORTS 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1642
+#EXTINF:0,[AR] OSN SPORTS 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1643
+#EXTINF:0,[AR]OSN SPORTS CRICKET HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/1644
+#EXTINF:0,[AR] beIN SPORTS 1 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4657
+#EXTINF:0,[AR] beIN SPORTS 1 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4658
+#EXTINF:0,[AR] beIN SPORTS 2 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4659
+#EXTINF:0,[AR] beIN SPORTS 2 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4660
+#EXTINF:0,[AR] beIN SPORTS 3 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4661
+#EXTINF:0,[AR] beIN SPORTS 3 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4662
+#EXTINF:0,[AR] beIN SPORTS 4 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4663
+#EXTINF:0,[AR] beIN SPORTS 4 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4664
+#EXTINF:0,[AR] beIN SPORTS 5 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4665
+#EXTINF:0,[AR] beIN SPORTS 5 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4666
+#EXTINF:0,[AR] beIN SPORTS 6 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4667
+#EXTINF:0,[AR] beIN SPORTS 6 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4668
+#EXTINF:0,[AR] beIN SPORTS 7 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4669
+#EXTINF:0,[AR] beIN SPORTS 7 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4670
+#EXTINF:0,[AR] beIN SPORTS 8 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4671
+#EXTINF:0,[AR] beIN SPORTS 8 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4672
+#EXTINF:0,[AR] beIN SPORTS 9 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4673
+#EXTINF:0,[AR] beIN SPORTS 9 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4674
+#EXTINF:0,[AR] beIN SPORTS 10 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4675
+#EXTINF:0,[AR] beIN SPORTS 10 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4676
+#EXTINF:0,[AR] beIN SPORTS 11 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4677
+#EXTINF:0,[AR] beIN SPORTS 11 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4678
+#EXTINF:0,[AR] beIN SPORTS 12 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4679
+#EXTINF:0,[AR] beIN SPORTS 12 HD (R)
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4680
+#EXTINF:0,[AR] beIN SPORTS 13 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4681
+#EXTINF:0,UAE: Dubai Sports 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2724
+#EXTINF:0,UAE: Dubai Sports 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2725
+#EXTINF:0,UAE: Dubai Sports 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2726
+#EXTINF:0,UAE: Sharjah Sports TV FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2727
+#EXTINF:0,UAE: Dubai Racing 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2728
+#EXTINF:0,UAE: Dubai Racing 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2729
+#EXTINF:0,UAE: Dubai Racing 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2730
+#EXTINF:0,[ARG] TyC Sports HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4236
+#EXTINF:0,[ARG]  FOX SPORTS PREMIUM
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4710
+#EXTINF:0,[ARG] DIRECT TV SPORTS
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4711
+#EXTINF:0,[ARG] DIRECT TV SPORTS 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4712
+#EXTINF:0,[ARG] DIRECT TV SPORTS PLUS
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4713
+#EXTINF:0,[ARG] FOX SPORT
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4714
+#EXTINF:0,[ARG] FOX SPORT 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4715
+#EXTINF:0,[ARG] FOX SPORT 3
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4716
+#EXTINF:0,[ARG] TNT SPORT
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4717
+#EXTINF:0,[VIP-BE] Eleven Sports 1
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4762
+#EXTINF:0,[VIP-BE] Eleven Sports 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4763
+#EXTINF:0,[VIP-BE] Eleven Sports 3
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4764
+#EXTINF:0,[VIP-BE] Play Sports 1
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4765
+#EXTINF:0,[VIP-BE] Play Sports 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4766
+#EXTINF:0,[BG] MAX SPORT 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3851
+#EXTINF:0,[BG] MAX SPORT 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3852
+#EXTINF:0,[BG] MAX SPORT 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3853
+#EXTINF:0,[BG] MAX SPORT 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3854
+#EXTINF:0,[BG] DIEMA SPORT 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3855
+#EXTINF:0,[BG] DIEMA SPORT 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/3856
+#EXTINF:0,[BG] Diema Sport 1
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4718
+#EXTINF:0,[BG] Diema Sport 1HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4719
+#EXTINF:0,[BG] Diema Sport 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4720
+#EXTINF:0,[BG] Diema Sport 2 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4721
+#EXTINF:0,[BG] Diema Sport 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4722
+#EXTINF:0,[BG] Diema Sport FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4723
+#EXTINF:0,[BG] EuroSport
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4724
+#EXTINF:0,[BG] Eurosport 1 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4725
+#EXTINF:0,[BG] EuroSport 2
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4726
+#EXTINF:0,[BG] Eurosport 2 FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4727
+#EXTINF:0,[BG] Nova Sport
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4728
+#EXTINF:0,[BG] Trace Sport Stars FHD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/4729
+#EXTINF:0,[TR] beIN SPORTS Haber HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2331
+#EXTINF:0,[TR] beIN SPORTS 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2332
+#EXTINF:0,[TR] beIN SPORTS 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2333
+#EXTINF:0,[TR] beIN SPORTS 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2334
+#EXTINF:0,[TR] beIN SPORTS 4 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2335
+#EXTINF:0,[TR] beIN SPORTS MAX 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2336
+#EXTINF:0,[TR] beIN SPORTS MAX 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2337
+#EXTINF:0,[TR] S Sport
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2338
+#EXTINF:0,[TR] TIVIBU SPOR 1 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2339
+#EXTINF:0,[TR] TIVIBU SPOR 2 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2340
+#EXTINF:0,[TR] TIVIBU SPOR 3 HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2341
+#EXTINF:0,[TR] SPOR SMART HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2342
+#EXTINF:0,[TR] A Sport
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2343
+#EXTINF:0,[TR] FENERBAHCE TV
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2344
+#EXTINF:0,[TR] TRT Spor HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2345
+#EXTINF:0,[TR]BJK TV
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2346
+#EXTINF:0,[TR] Galatasaray TV HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2347
+#EXTINF:0,[TR] Sports TV
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/2348
+#EXTINF:0,[CH] Swiss Sport TV HD
+http://live.safetv.pro:23000/cr28mi857/dVdLQ5Frxy/486
