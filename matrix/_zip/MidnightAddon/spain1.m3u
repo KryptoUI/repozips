@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1,--- LISTA GRATIS achoAPPS.com
+http://www.achoTV.com
+#EXTINF:-1,--- Visita www.achoAPPS.com ---
+
+#EXTINF:-1, tvg-logo="sRsCcT6.png" group-title="Canales Españoles", La 1 | HD achoAPPS.com
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
+
+#EXTINF:-1, tvg-logo="S5fmGKT.jpg" group-title="Canales Españoles", La 2 | HD achoAPPS.com
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0-audio=128000-video=1500000.m3u8
+
+#EXTINF:-1, tvg-logo="hr1LLrh.png" group-title="Canales Españoles", Cuatro | HD achoAPPS.com
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="tq6xYkf.png" group-title="Canales Españoles", Telecinco | HD achoAPPS.com
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="hHaTdZk.png" group-title="Canales Españoles", La Xarxa | SD achoAPPS.com
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="VlMzpJH.png" group-title="Canales Españoles", Canal 13 España | SD achoAPPS.com
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+
+#EXTINF:-1, tvg-logo="6tlqsqj.png" group-title="Canales Españoles", IB3 | SD achoAPPS.com
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+
+#EXTINF:-1, tvg-logo="tio3Wpw.png" group-title="Canales Españoles", 324 | SD achoAPPS.com
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
+
+#EXTINF:-1, tvg-logo="nwZC1ru.png" group-title="Canales Españoles", Aragon | SD achoAPPS.com
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+#EXTINF:-1, tvg-logo="NPwasj0.png" group-title="Canales Españoles", Extremadura | SD achoAPPS.com
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="qUB3ggl.png" group-title="Canales Españoles", Lancelot TV | SD achoAPPS.com
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:-1, tvg-logo="3TGxQ3O.png" group-title="Canales Españoles", ETBSAT | SD achoAPPS.com
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1, tvg-logo="OKXbIr9.png" group-title="Canales Españoles", Lebrija TV | SD achoAPPS.com
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+
+#EXTINF:-1, tvg-logo="R0XrZJ1.png" group-title="Canales Españoles", Navarra TV | SD achoAPPS.com
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+
+#EXTINF:-1, tvg-logo="LFJqzx2.png" group-title="Canales Españoles", TV3 | SD achoAPPS.com
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="jl1Nnd4.png" group-title="Canales Españoles", TV Galicia America | SD achoAPPS.com
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="jl1Nnd4.png" group-title="Canales Españoles", TV Galicia Europa | SD achoAPPS.com
+http://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="7C9rreQ.png" group-title="Canales Españoles", Calle 13 | SD achoAPPS.com
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="sG60MI9.jpg" group-title="Canales Españoles",  324 Cataluña | SD achoAPPS.com
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="PrhB3SI.jpg" group-title="Canales Españoles", TeleSafor | HD achoAPPS.com
+http://video.telesafor.com/hls/video_high.m3u8
+
+#EXTINF:-1, tvg-logo="A8HIM2v.png" group-title="Canales Españoles", Onda Cadiz | SD achoAPPS.com
+http://api.new.livestream.com/accounts/22727797/events/7923562/live.m3u8
+
+#EXTINF:-1, tvg-logo="V4ig3Hn.png" group-title="Canales Españoles", 7TV | SD achoAPPS.com
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1, tvg-logo="ROPlvzc.png" group-title="Canales Españoles", A Punt | SD achoAPPS.com
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+
+#EXTINF:-1, tvg-logo="TXHdLeZ.png" group-title="Canales Españoles", Canal 4 Tenerife | SD achoAPPS.com
+https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8
+
+#EXTINF:-1, tvg-logo="oBBym9k.png" group-title="Canales Españoles", ETB 1 | HD achoAPPS.com
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="oBBym9k.png" group-title="Canales Españoles", ETB 2 | HD achoAPPS.com
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/index_2596_av-p.m3u8
+
+#EXTINF:-1, tvg-logo="G7JyLXg.jpg" group-title="Canales Españoles", Telemadrid | SD achoAPPS.com
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+#EXTINF:-1, tvg-logo="99mztxa.png" group-title="Canales Españoles", Canal Costa | HD achoAPPS.com
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="omjtgw0.png" group-title="Canales Españoles", Canaria Sat Television | SD achoAPPS.com
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8
+
+#EXTINF:-1, tvg-logo="Z8ghGZV.png" group-title="Canales Españoles", Super 3 Cataluña | SD achoAPPS.com
+http://ccma-tva-es-cellnex-live-hls.secure.footprint.net/cat/ngrp:c33_web/chunklist_b1296000_DVR.m3u8
+
+#EXTINF:-1, tvg-logo="cZhkP9Q.png" group-title="Canales Españoles", Intereconomia TV | SD achoAPPS.com
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/live.smil/master.m3u8
+
+#EXTINF:-1, tvg-logo="ZGAUabe.png" group-title="Canales Españoles", Andalucia Cocina | SD achoAPPS.com
+https://593fa17dec176.streamlock.net:443/cscocina/cscocina.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="k2T6u4G.png" group-title="Canales Españoles", Miami TV España | HD achoAPPS.com
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/master.m3u8
+
+#EXTINF:-1, tvg-logo="oFi89jD.jpg" group-title="Canales Españoles", Fibwi Live | FHD
+http://178.132.6.97/fibwiLIVE1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="BV0KGgL.jpg" group-title="Canales Españoles", Pride Channel TV | HD achoAPPS.com
+http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="ub0uQ4D.jpg" group-title="Canales Españoles", Canal Iberoamericano | SD achoAPPS.com
+http://200.57.175.24:1935/canaliberoamericano1/_definst_/mp4:live.mp4/chunklist_w1513671043.m3u8
+
+#EXTINF:-1, tvg-logo="Y2N3zyn.png" group-title="Canales Españoles", FDF | HD achoAPPS.com
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="82Xp9F7.png" group-title="Canales Españoles", Boing | HD achoAPPS.com
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="SHfp18P.png" group-title="Canales Españoles", Divinity | HD achoAPPS.com
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="5xBT6mH.png" group-title="Canales Españoles", Be Mad | HD achoAPPS.com
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Españoles", Energy | HD achoAPPS.com
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8
+
+#EXTINF:-1, tvg-logo="L6rxSi6.png" group-title="Canales Españoles", Distrito TV | SD achoAPPS.com | Madrid
+https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8
+
+#EXTINF:-1, tvg-logo="gvG7eAN.png" group-title="Canales Españoles", Canal Sur Andalucía | SD achoAPPS.com
+http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/chunklist_b628000.m3u8
+
+#EXTINF:-1, tvg-logo="S40QKpm.png" group-title="Canales Españoles", Canal Sur Andalucía Flamenco | SD achoAPPS.com
+https://593fa17dec176.streamlock.net/csflamenco/csflamenco.stream/chunklist_w32442243.m3u8
+
+#EXTINF:-1, tvg-logo="zdU1PfU.png" group-title="Canales Españoles", Castilla-La Mancha Media | SD achoAPPS.com
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
+
+#EXTINF:-1, tvg-logo="TSjUpEw.png" group-title="Canales Españoles", Red Spain TV | HD achoAPPS.com
+http://178.132.6.97/RedTVSpain1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-logo="oBBym9k.png" group-title="Canales Españoles", ETB 3 | SD achoAPPS.com
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
