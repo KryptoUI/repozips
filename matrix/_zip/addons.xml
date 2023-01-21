@@ -23,6 +23,34 @@
 			</assets>
 		</extension>
 	</addon>
+	<addon id="plugin.video.megaiptv" name="[COLOR aqua]Mega IPTV[/COLOR]" version="1.0.1" provider-name="G-Man">
+		<requires>
+			<import addon="xbmc.python" version="3.0.0"/>
+			<import addon="script.module.requests"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="addon.py">
+			<provides>video</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Live IPTV World-Wide</summary>
+			<description lang="en">An IPTV Channel Add-on with listings from IPTV.org and Fluxus IPTV </description>
+			<platform>all</platform>
+			<language>en</language>
+			<license>GPL-2.0-or-later</license>
+			<forum/>
+			<website/>
+			<email/>
+			<source/>
+			<news/>
+			<assets>
+				<icon>icon.png</icon>
+				<fanart>fanart.jpg</fanart>
+				<banner/>
+				<clearlogo/>
+				<screenshot/>
+			</assets>
+		</extension>
+	</addon>
 	<addon id="plugin.video.midnight" version="1.0.0" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHT[/COLOR]" provider-name="Krypto">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
@@ -56,34 +84,6 @@
 				<fanart>fanart.jpg</fanart>
 				<screenshot/>
 				<screenshot/>
-				<screenshot/>
-			</assets>
-		</extension>
-	</addon>
-	<addon id="plugin.video.megaiptv" name="[COLOR aqua]Mega IPTV[/COLOR]" version="1.0.1" provider-name="G-Man">
-		<requires>
-			<import addon="xbmc.python" version="3.0.0"/>
-			<import addon="script.module.requests"/>
-		</requires>
-		<extension point="xbmc.python.pluginsource" library="addon.py">
-			<provides>video</provides>
-		</extension>
-		<extension point="xbmc.addon.metadata">
-			<summary lang="en">Live IPTV World-Wide</summary>
-			<description lang="en">An IPTV Channel Add-on with listings from IPTV.org and Fluxus IPTV </description>
-			<platform>all</platform>
-			<language>en</language>
-			<license>GPL-2.0-or-later</license>
-			<forum/>
-			<website/>
-			<email/>
-			<source/>
-			<news/>
-			<assets>
-				<icon>icon.png</icon>
-				<fanart>fanart.jpg</fanart>
-				<banner/>
-				<clearlogo/>
 				<screenshot/>
 			</assets>
 		</extension>
