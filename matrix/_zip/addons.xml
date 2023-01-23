@@ -23,7 +23,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.midnight" version="1.0.0" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHT[/COLOR]" provider-name="Krypto">
+	<addon id="plugin.video.midnight" version="1.0.1" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHT[/COLOR]" provider-name="Krypto">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 			<import addon="script.module.midnight"/>
@@ -46,7 +46,7 @@
 		</extension>
 		<extension library="service.py" point="xbmc.service" start="startup"/>
 		<extension point="xbmc.addon.metadata">
-			<summary lang="en"/>
+			<summary lang="en">Midnight is a WIP - Lists may fail from time to time but rest assured - we will fix the issue</summary>
 			<description lang="en"/>
 			<platform>all</platform>
 			<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
