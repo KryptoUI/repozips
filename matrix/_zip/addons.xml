@@ -40,23 +40,6 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.midnight.artwork" version="1.0.0" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]A[/COLOR][COLORwhite]RT[/COLOR] [COLORred]F[/COLOR][COLORwhite]RAMEWORK[/COLOR]" provider-name="Krypto">
-		<requires>
-			<!--<import addon="xbmc.python" version="2.25.0" />-->
-		</requires>
-		<extension point="xbmc.python.module" library="lib"/>
-		<extension point="xbmc.addon.metadata">
-			<summary lang="en">Midnight is an addon that does what it can to provide others, you the best in entertainment.</summary>
-			<description lang="en"/>
-			<platform>all</platform>
-			<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-			<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-			<assets>
-				<icon>icon.png</icon>
-				<fanart>fanart.jpg</fanart>
-			</assets>
-		</extension>
-	</addon>
 	<addon id="script.midnight.metadata" version="1.0.0" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]M[/COLOR][COLORwhite]ETADATA FRAMEWORK[/COLOR]" provider-name="Krypto">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
@@ -74,7 +57,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.module.midnight" name="[COLOR orchid]MIDNIGHT'S MAINFRAME[/COLOR]" version="1.0.0" provider-name="Krypto">
+	<addon id="script.module.midnight" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]F[/COLOR][COLORwhite]RAMEWORK[/COLOR]" version="1.0.0" provider-name="Krypto">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 			<import addon="script.module.beautifulsoup4"/>
