@@ -47,7 +47,7 @@
 		<extension library="service.py" point="xbmc.service" start="startup"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en"/>
-			<description lang="en"/>
+			<description lang="en">Midnight is an addon Maintained by Krypto - Updates are frequent</description>
 			<platform>all</platform>
 			<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 			<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
