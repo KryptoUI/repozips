@@ -381,7 +381,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="repository.krypto" version="1.0.6" name="[COLORred]K[/COLOR][COLORwhite]rypto's[/COLOR] [COLORred]R[/COLOR][COLORwhite]epo[/COLOR]" provider-name="Krypto">
+	<addon id="repository.krypto" version="1.0.7" name="[COLORred]K[/COLOR][COLORwhite]rypto's[/COLOR] [COLORred]R[/COLOR][COLORwhite]epo[/COLOR]" provider-name="Krypto">
 		<extension point="xbmc.addon.repository" name="[COLORred]K[/COLOR][COLORwhite]rypto's[/COLOR] [COLORred]R[/COLOR][COLORwhite]epo[/COLOR]">
 			<dir minversion="18.9.9">
 				<info compressed="false">https://raw.githubusercontent.com/kryptoui/repozips/master/matrix/_zip/addons.xml</info>
@@ -418,8 +418,8 @@
 		<extension point="xbmc.addon.metadata">
 			<news>First release for Multi-version</news>
 			<summary lang="en_GB">Krypto's Kodi repository</summary>
-			<description lang="en_GB">This repository is created for distributing my own Kodi plugins. Enjoy!</description>
-			<disclaimer lang="en_GB">This repository is non-commercial GPL-3. You may use it as is at your own discretion and risk.
+			<description lang="en_GB">Krypto's Repo is a repository that overtime will have the coolest addon's around. It is also Midnight's true home.</description>
+			<disclaimer lang="en_GB">
         </disclaimer>
 			<assets>
 				<icon>icon.png</icon>
