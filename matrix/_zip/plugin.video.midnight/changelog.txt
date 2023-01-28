@@ -1,5 +1,5 @@
-[B][COLOR grey]
-(Contact me about any errors or issues. I dont really use Soc. Media)
+[B][COLOR aqua]
+(Contact me about any errors or issues.)
 (Feel free to test anything and tell me what works and what dont.)
 (https://github.com/KryptoUI/repozips/issues)[/COLOR][/B]
 [Kodi 19 and Kodi 20 has been tested, It should work with older versions.]
