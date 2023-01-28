@@ -60,7 +60,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.midnight.artwork" version="1.0.2B" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]A[/COLOR][COLORwhite]RT[/COLOR] [COLORred]F[/COLOR][COLORwhite]RAMEWORK[/COLOR]" provider-name="Krypto">
+	<addon id="script.midnight.artwork" version="1.0.3" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]A[/COLOR][COLORwhite]RT[/COLOR] [COLORred]F[/COLOR][COLORwhite]RAMEWORK[/COLOR]" provider-name="Krypto">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 		</requires>
