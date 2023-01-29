@@ -5,7 +5,7 @@
 
 
 
-> - [B]- V1.0.4 [/B]
+> [B]- V1.0.4 [/B]
 > - Updated Some Scrapers
 > - Added a changelog popup.
 > - Revamped menus
