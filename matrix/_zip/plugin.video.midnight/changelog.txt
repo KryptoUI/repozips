@@ -1,16 +1,16 @@
 [COLOR gray]
-⍩ - Feel free to test anything and tell me what works and what dont.[/COLOR]
-⍩ - [B][COLOR pink]https://github.com/KryptoUI/repozips/issues[/COLOR][/B]
-⍩ - [COLOR red ][Kodi 19 and Kodi 20 has been tested, It should work with older versions.][/COLOR]
+↦ - Feel free to test anything and tell me what works and what dont.[/COLOR]
+↦ - [B][COLOR pink]https://github.com/KryptoUI/repozips/issues[/COLOR][/B]
+↦ - [COLOR red ][Kodi 19 and Kodi 20 has been tested, It should work with older versions.][/COLOR]
 
 
 
-⍩ - [B]- V1.0.4 [/B]
-⍩ - Updated Some Scrapers
-⍩ - Added a changelog popup.
-⍩ - Revamped menus
-⍩ - General Fixes and Bug Fixes.
+↦ - [B]- V1.0.4 [/B]
+↦ - Updated Some Scrapers
+↦ - Added a changelog popup.
+↦ - Revamped menus
+↦ - General Fixes and Bug Fixes.
 
 
-⍩ - [B]- V1.0.3 [/B]
-⍩ - Initial Release
+↦ - [B]- V1.0.3 [/B]
+↦ - Initial Release
