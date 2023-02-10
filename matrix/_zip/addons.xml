@@ -94,7 +94,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.module.midnight" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]M[/COLOR][COLORwhite]AINFRAME[/COLOR]" version="1.0.4" provider-name="Krypto">
+	<addon id="script.module.midnight" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]M[/COLOR][COLORwhite]AINFRAME[/COLOR]" version="1.0.4a" provider-name="Krypto">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 			<import addon="script.module.beautifulsoup4"/>
