@@ -23,7 +23,7 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="plugin.video.midnight" version="1.0.3" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHT[/COLOR]" provider-name="Krypto">
+	<addon id="plugin.video.midnight" version="1.0.4" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHT[/COLOR]" provider-name="Krypto">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 			<import addon="script.module.midnight"/>
@@ -94,11 +94,16 @@
 			</assets>
 		</extension>
 	</addon>
-	<addon id="script.module.midnight" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]M[/COLOR][COLORwhite]AINFRAME[/COLOR]" version="1.0.2" provider-name="Krypto">
+	<addon id="script.module.midnight" name="[COLORred]M[/COLOR][COLORwhite]IDNIGHTS[/COLOR] [COLORred]M[/COLOR][COLORwhite]AINFRAME[/COLOR]" version="1.0.4" provider-name="Krypto">
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 			<import addon="script.module.beautifulsoup4"/>
 		</requires>
+		<item label="Open Popup">
+			<label>Open Popup</label>
+			<onclick>RunScript(script.module.myaddon, navigator=open_popup)</onclick>
+			<visible>true</visible>
+		</item>
 		<extension point="xbmc.python.module" library="lib"/>
 		<extension point="xbmc.addon.metadata">
 			<summary lang="en"/>
