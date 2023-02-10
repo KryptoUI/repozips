@@ -27,6 +27,7 @@
 		<requires>
 			<!--<import addon="xbmc.python" version="2.25.0" />-->
 			<import addon="script.module.midnight"/>
+			<import addon="plugin.video.tvone112"/>
 			<import addon="script.midnight.artwork"/>
 			<import addon="script.midnight.metadata"/>
 			<import addon="script.module.requests"/>
